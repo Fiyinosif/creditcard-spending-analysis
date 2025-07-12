@@ -37,11 +37,11 @@ Financial institutions and marketing teams can use these insights to:
 - Business insight generation and communication
 
 ## 📁 Project Structure
- creditcard-spending-analysis/
-├── creditcard_analysis.ipynb
-├── data/
-├── images/
-└── README.md
+-  creditcard-spending-analysis/
+- ├── creditcard_analysis.ipynb
+- ├── data/
+- ├── images/
+- └── README.md
 
 
 ## ✅ Conclusion
