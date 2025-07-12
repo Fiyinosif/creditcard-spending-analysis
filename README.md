@@ -10,7 +10,7 @@ Analyze credit card transaction data to uncover spending patterns across cities,
 
 ## 📂 Dataset
 - Simulated credit card transaction dataset
-- Features include City, Gender, Expense Type, Amount, and Transaction Count
+- Features include City, Gender, Expense Type, Card Type and Date.
 
 ## 🔍 Key Questions Answered
 - Which cities have the highest total spending?
