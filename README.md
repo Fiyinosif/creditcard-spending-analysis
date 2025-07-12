@@ -30,6 +30,14 @@ Financial institutions and marketing teams can use these insights to:
 - Target high-spending cities like Greater Mumbai with premium card features.
 - Consider gender-focused financial products, especially for urban female consumers.
 
+## 📊 Sample Visualizations
+
+### Top 5 Cities by Total Spending
+![Top Cities](images/top_cities.png)
+
+### Expense Type Distribution
+![Expense Types](images/expense_types.png)
+
 ## 🧠 Skills Demonstrated
 - Data cleaning and manipulation with Pandas
 - Grouping, filtering, and summarizing data
