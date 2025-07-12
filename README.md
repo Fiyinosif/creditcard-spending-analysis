@@ -36,13 +36,6 @@ Financial institutions and marketing teams can use these insights to:
 - Data visualization with Matplotlib and Seaborn
 - Business insight generation and communication
 
-## 📁 Project Structure
--  creditcard-spending-analysis/
-- ├── creditcard_analysis.ipynb
-- ├── data/
-- ├── images/
-- └── README.md
-
 
 ## ✅ Conclusion
 This project demonstrates real-world business analysis using Python. It helped develop my EDA and storytelling skills while translating raw data into actionable recommendations.
